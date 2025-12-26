@@ -78,7 +78,7 @@ python "main.py"
 - Improved code readability and maintainability
 - Documented function purposes and logic flow
 
-### ⚡ Omid
+### ⚡ Seyed Javad Hashemi
 **Role**: Code Optimization
 - Optimized detection parameters for better performance
 - Fine-tuned confidence calculation algorithms
